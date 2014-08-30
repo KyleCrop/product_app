@@ -45,5 +45,6 @@ gem 'money-rails'
 
 gem 'bundler', '~> 1.6'
 gem 'rake'
+gem 'rspec'
 gem 'rspec-rails', '~> 3.0.0'
 
